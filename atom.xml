@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lychee3005.github.io/"/>
-  <updated>2018-11-14T14:04:54.181Z</updated>
+  <updated>2018-11-14T14:45:31.143Z</updated>
   <id>https://lychee3005.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://lychee3005.github.io/2018/11/14/20181114-Blog-Improvement-List/"/>
     <id>https://lychee3005.github.io/2018/11/14/20181114-Blog-Improvement-List/</id>
     <published>2018-11-14T11:25:27.000Z</published>
-    <updated>2018-11-14T14:04:54.181Z</updated>
+    <updated>2018-11-14T14:45:31.143Z</updated>
     
-    <content type="html"><![CDATA[<p>感觉NexT主题本身已经很好看了，简洁即为美。因此自己的blog应该基本不会再做美化，只做功能上的完善。</p><a id="more"></a><h1 id="已实现"><a href="#已实现" class="headerlink" title="已实现"></a>已实现</h1><ul><li><p>NexT主题</p></li><li><p>标签页</p></li><li><p>RSS（使用<a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="noopener">hexo-generator-feed</a>）</p></li><li><p>Social Link（在sidebar） <del>什么都没有的GitHub也好意思写上去哦</del></p></li><li><p>评论和留言系统（使用<a href="https://valine.js.org/" target="_blank" rel="noopener">Valine</a>）</p></li><li><p>头像</p></li><li><p>版权声明（sidebar及文章底部）</p></li><li><p>显示文章字数和阅读时间（使用<a href="https://github.com/theme-next/hexo-symbols-count-time" target="_blank" rel="noopener">hexo-symbols-count-time</a>）</p></li><li><p>搜索（使用<a href="https://github.com/theme-next/hexo-generator-searchdb" target="_blank" rel="noopener">hexo-generator-searchdb</a>）</p></li></ul><h1 id="未实现"><a href="#未实现" class="headerlink" title="未实现"></a>未实现</h1><ul><li><p>分类页（犹豫要不要加，不是很喜欢用分类）</p></li><li><p>图片点击放大</p></li><li><p>代码可复制（……真能实现吗）</p></li><li><p>购买域名</p></li></ul><h1 id="存在的问题"><a href="#存在的问题" class="headerlink" title="存在的问题"></a>存在的问题</h1><ul><li>Social Link无法添加Mastodon的Font Awesome图标（mastodon）</li></ul>]]></content>
+    <content type="html"><![CDATA[<p>感觉NexT主题本身已经很好看了，简洁即为美。因此自己的blog应该基本不会再做美化，只做功能上的完善。</p><a id="more"></a><h1 id="已实现"><a href="#已实现" class="headerlink" title="已实现"></a>已实现</h1><ul><li><p>NexT主题</p></li><li><p>标签页</p></li><li><p>RSS（使用<a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="noopener">hexo-generator-feed</a>）</p></li><li><p>Social Link  <del>什么都没有的GitHub也好意思写上去哦</del></p></li><li><p>评论和留言系统（使用<a href="https://valine.js.org/" target="_blank" rel="noopener">Valine</a>）</p></li><li><p>头像</p></li><li><p>版权声明（sidebar及文章底部）</p></li><li><p>显示文章字数和阅读时间（使用<a href="https://github.com/theme-next/hexo-symbols-count-time" target="_blank" rel="noopener">hexo-symbols-count-time</a>）</p></li><li><p>搜索（使用<a href="https://github.com/theme-next/hexo-generator-searchdb" target="_blank" rel="noopener">hexo-generator-searchdb</a>）</p></li></ul><h1 id="未实现"><a href="#未实现" class="headerlink" title="未实现"></a>未实现</h1><ul><li><p>分类页（犹豫要不要加，不是很喜欢用分类）</p></li><li><p>图片点击放大</p></li><li><p>代码可复制（……真能实现吗）</p></li><li><p>购买域名</p></li></ul><h1 id="存在的问题"><a href="#存在的问题" class="headerlink" title="存在的问题"></a>存在的问题</h1><ul><li><p>Social Link无法添加Mastodon的Font Awesome图标（mastodon）</p></li><li><p>Valine按照教程设置过后，收到评论仍无邮件提醒</p></li></ul>]]></content>
     
     <summary type="html">
     
