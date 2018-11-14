@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lychee&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-11-14T13:38:58.432Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Lychee</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Blog功能优化列表</title>
+    <link href="http://yoursite.com/2018/11/14/20181114-Blog-Improvement-List/"/>
+    <id>http://yoursite.com/2018/11/14/20181114-Blog-Improvement-List/</id>
+    <published>2018-11-14T11:25:27.000Z</published>
+    <updated>2018-11-14T13:38:58.432Z</updated>
+    
+    <content type="html"><![CDATA[<p>感觉NexT主题本身已经很好看了，简洁即为美。因此自己的blog应该基本不会再做美化，只做功能上的完善。</p><a id="more"></a><h1 id="已实现"><a href="#已实现" class="headerlink" title="已实现"></a>已实现</h1><ul><li><p>NexT主题</p></li><li><p>标签页</p></li><li><p>RSS（使用<a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="noopener">hexo-generator-feed</a>）</p></li><li><p>Social Link（在sidebar） <del>什么都没有的GitHub也好意思写上去哦</del></p></li><li><p>评论和留言系统（使用<a href="https://valine.js.org/" target="_blank" rel="noopener">Valine</a>）</p></li><li><p>头像</p></li><li><p>版权声明（sidebar及文章底部）</p></li><li><p>显示文章字数和阅读时间（使用<a href="https://github.com/theme-next/hexo-symbols-count-time" target="_blank" rel="noopener">hexo-symbols-count-time</a>）</p></li><li><p>搜索（使用<a href="https://github.com/theme-next/hexo-generator-searchdb" target="_blank" rel="noopener">hexo-generator-searchdb</a>）</p></li></ul><h1 id="未实现"><a href="#未实现" class="headerlink" title="未实现"></a>未实现</h1><ul><li><p>分类页（犹豫要不要加，不是很喜欢用分类）</p></li><li><p>图片点击放大</p></li><li><p>代码可复制（……真能实现吗）</p></li><li><p>购买域名</p></li></ul><h1 id="存在的问题"><a href="#存在的问题" class="headerlink" title="存在的问题"></a>存在的问题</h1><ul><li>Social Link无法添加Mastodon的Font Awesome图标（mastodon）</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;感觉NexT主题本身已经很好看了，简洁即为美。因此自己的blog应该基本不会再做美化，只做功能上的完善。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/11/13/20181113-Hello-World/"/>
+    <id>http://yoursite.com/2018/11/13/20181113-Hello-World/</id>
+    <published>2018-11-13T11:34:27.000Z</published>
+    <updated>2018-11-14T10:58:43.606Z</updated>
+    
+    <content type="html"><![CDATA[<p>于是就在2018年快要结束的时候，我又重新用起了博客，并且是自己搭建的博客……虽然是一脸懵逼紧抱教程大腿搭起来的。打算先等一波域名打折，blog就暂且挂在GitHub上。</p><p>不用正经的blog也有很多年了，大概从上大学起就没有用过了。十余年前还是blog风行的时候，会在各种博客平台上写着自己的流水账，会在友情链接里挂上很多小伙伴的blog地址，还会有不认识的陌生人开着手机流量（当年流量还是很少的）看我的博文然后留下友善的评论。</p><a id="more"></a><p>记得是07或者08年的某一天，我的小伙伴——就叫他熊先生吧——邀请我去玩饭否，说这个东西叫“微博”。当时我还问他，“微博”这个东西和博客有什么区别？熊先生说，区别可大了，你想说什么随时都可以说，一句话都可以。</p><p>就从那个时候起，微博开始渐渐兴盛而博客则迅速式微，博客中国、博客大巴、百度空间、网易博客等平台相继关站。大概人们习惯了这种快速而简短的表达方式后，就再也没有耐心静下心来写或者看一篇比较长的文章了。况且微博这种方式也更容易传播和交流，不似写博客这样寂寞。</p><p>但我还是很喜欢去看别人的博客，看他们在喧嚣中圈出一方净土，不紧不慢地娓娓道来，仿佛时间也慢了下来一样。博客是沉浸在个人世界中的倾诉，话语更加字斟句酌，思维更加明晰流畅，这便使得博客相比微博更加容易传达出写作者的个人思想和情感，有着自己不可替代的美。真是非常可惜，现在还在使用博客的人已经寥寥无几了。</p><p>如今我的表达欲望几已消失殆尽，理性的增加伴随着感性的丧失，光是写出上面一点点字就已经竭尽全力了。之前一直没有动手重新建起博客，便是担心开了以后也无话可说。不过最后还是觉得，既然真心觉得博客很有趣那为什么不用呢，有一点话便说一点话，慢慢复健说不定也是可以的。况且这次受到了草莓县民的感染自己用Hexo+GitHub搭起了属于自己的博客，虽然目前只实现了“能发文章”的功能，但总归还是觉得非常满足。</p><p>接下来的事情就是继续折腾一下自己的blog，然后慢慢充实内容。好久没有写blog导致说话似乎文艺了一点，再多说几篇大概文风就能自然一些了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;于是就在2018年快要结束的时候，我又重新用起了博客，并且是自己搭建的博客……虽然是一脸懵逼紧抱教程大腿搭起来的。打算先等一波域名打折，blog就暂且挂在GitHub上。&lt;/p&gt;
+&lt;p&gt;不用正经的blog也有很多年了，大概从上大学起就没有用过了。十余年前还是blog风行的时候，会在各种博客平台上写着自己的流水账，会在友情链接里挂上很多小伙伴的blog地址，还会有不认识的陌生人开着手机流量（当年流量还是很少的）看我的博文然后留下友善的评论。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="杂谈" scheme="http://yoursite.com/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+</feed>
