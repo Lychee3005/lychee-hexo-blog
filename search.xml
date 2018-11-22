@@ -20,7 +20,7 @@
   <entry>
     <title><![CDATA[Blog功能优化列表]]></title>
     <url>%2F2018%2F11%2F14%2F20181114-blog-improvement-list%2F</url>
-    <content type="text"><![CDATA[感觉NexT主题本身已经很好看了，简洁即为美。因此自己的blog应该基本不会再做美化，只做功能上的完善。 已实现 NexT主题 标签页 RSS（使用hexo-generator-feed） Social Link 什么都没有的GitHub也好意思写上去哦 评论和留言系统（使用Valine） 头像 版权声明（sidebar及文章底部） 显示文章字数和阅读时间（使用hexo-symbols-count-time） 搜索（使用hexo-generator-searchdb） 代码可复制（使用clipboard.js） 图片点击放大（使用theme-next-fancybox3） 未实现 显示数学公式（真的会在这里写数学公式吗……） 分类页（犹豫要不要加，不是很喜欢用分类） 购买域名 存在的问题 Social Link无法添加Mastodon的Font Awesome图标（mastodon） Valine按照教程设置过后，收到评论仍无邮件提醒]]></content>
+    <content type="text"><![CDATA[感觉NexT主题本身已经很好看了，简洁即为美。因此自己的blog应该基本不会再做美化，只做功能上的完善。 已实现 NexT主题 标签页 RSS（使用hexo-generator-feed） Social Link 什么都没有的GitHub也好意思写上去哦 评论和留言系统（使用Valine） 头像 版权声明（sidebar及文章底部） 显示文章字数和阅读时间（使用hexo-symbols-count-time） 搜索（使用hexo-generator-searchdb） 代码可复制（使用clipboard.js） 图片点击放大（使用theme-next-fancybox3） 未实现 显示数学公式（真的会在这里写数学公式吗……） 分类页（犹豫要不要加，不是很喜欢用分类） 购买域名 存在的问题 Social Link无法添加Mastodon的Font Awesome图标（mastodon）]]></content>
       <tags>
         <tag>Hexo</tag>
       </tags>
