@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lychee3005.github.io/"/>
-  <updated>2018-12-07T11:01:37.848Z</updated>
+  <updated>2018-12-04T14:39:42.157Z</updated>
   <id>https://lychee3005.github.io/</id>
   
   <author>
@@ -15,24 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://lychee3005.github.io/posts/d87f7e0c/"/>
-    <id>https://lychee3005.github.io/posts/d87f7e0c/</id>
-    <published>2018-12-07T11:00:55.000Z</published>
-    <updated>2018-12-07T11:01:37.848Z</updated>
-    
-    <content type="html"><![CDATA[<script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script><div id="hbe-security">  <div class="hbe-input-container">  <input type="password" class="hbe-form-control" id="pass" placeholder="请点击本行文字输入密码，按回车确认。" />    <label for="pass">请点击本行文字输入密码，按回车确认。</label>    <div class="bottom-line"></div>  </div></div><div id="decryptionError" style="display: none;">Incorrect Password!</div><div id="noContentError" style="display: none;">No content to display!</div><div id="encrypt-blog" style="display:none">U2FsdGVkX18/sdLUXPPi5wsuKXwcT7HXhnI8kMaRX13QO3nWtviuJEuBMYXVzTleSXLNJTsxQ+oFeWqWR6iPvA==</div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
-    
-    <summary type="html">
-    
-      这是一篇加密博文
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>《影子战术：将军之刃》通关后感</title>
@@ -124,9 +106,9 @@
     <link href="https://lychee3005.github.io/posts/bcd0df93/"/>
     <id>https://lychee3005.github.io/posts/bcd0df93/</id>
     <published>2018-11-14T11:25:27.000Z</published>
-    <updated>2018-12-07T11:03:13.138Z</updated>
+    <updated>2018-12-07T11:23:34.278Z</updated>
     
-    <content type="html"><![CDATA[<p>感觉NexT主题本身已经很好看了，简洁即为美。因此自己的blog应该基本不会再做美化，只做功能上的完善。</p><a id="more"></a><h1 id="已实现"><a href="#已实现" class="headerlink" title="已实现"></a>已实现</h1><ul><li><p>NexT主题</p></li><li><p>标签页</p></li><li><p>RSS（使用<a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="noopener">hexo-generator-feed</a>）</p></li><li><p>Social Link  <del>什么都没有的GitHub也好意思写上去哦</del></p></li><li><p>评论和留言系统（使用<a href="https://valine.js.org/" target="_blank" rel="noopener">Valine</a>）<br>Valine的评论邮件提醒功能：在Leacloud的Valine应用中评论时，邮件提醒会发给评论@的那个人留下的邮箱，模板使用应用创建者在设置——邮件模板中的模板</p></li><li><p>头像</p></li><li><p>版权声明（sidebar及文章底部）</p></li><li><p>显示文章字数和阅读时间（使用<a href="https://github.com/theme-next/hexo-symbols-count-time" target="_blank" rel="noopener">hexo-symbols-count-time</a>）</p></li><li><p>搜索（使用<a href="https://github.com/theme-next/hexo-generator-searchdb" target="_blank" rel="noopener">hexo-generator-searchdb</a>）</p></li><li><p>代码可复制（使用<a href="https://github.com/zenorocha/clipboard.js" target="_blank" rel="noopener">clipboard.js</a>）</p></li><li><p>图片点击放大（使用<a href="https://github.com/theme-next/theme-next-fancybox3" target="_blank" rel="noopener">theme-next-fancybox3</a>）</p></li><li><p>友情链接</p></li><li><p>修改永久链接格式（使用<a href="https://github.com/rozbo/hexo-abbrlink" target="_blank" rel="noopener">hexo-abbrlink</a>） <del>每个post还要为链接起个英文题目实在是太蠢了！</del></p></li><li><p>博文加密功能（使用<a href="https://github.com/MikeCoder/hexo-blog-encrypt" target="_blank" rel="noopener">hexo-blog-encrypt</a>）</p></li></ul><h1 id="未实现"><a href="#未实现" class="headerlink" title="未实现"></a>未实现</h1><ul><li><p>显示数学公式（真的会在这里写数学公式吗……）</p></li><li><p>分类页（犹豫要不要加，不是很喜欢用分类）</p></li><li><p>购买域名</p></li></ul><h1 id="存在的问题"><a href="#存在的问题" class="headerlink" title="存在的问题"></a>存在的问题</h1><ul><li><p>Social Link无法添加Mastodon的Font Awesome图标（mastodon）</p></li><li><p>修改永久链接后，图片只能放在<code>/source/images/</code>文件夹下，启用assets folder将无法显示</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>感觉NexT主题本身已经很好看了，简洁即为美。因此自己的blog应该基本不会再做美化，只做功能上的完善。</p><a id="more"></a><h1 id="已实现"><a href="#已实现" class="headerlink" title="已实现"></a>已实现</h1><ul><li><p>NexT主题</p></li><li><p>标签页</p></li><li><p>RSS（使用<a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="noopener">hexo-generator-feed</a>）</p></li><li><p>Social Link  <del>什么都没有的GitHub也好意思写上去哦</del></p></li><li><p>评论和留言系统（使用<a href="https://valine.js.org/" target="_blank" rel="noopener">Valine</a>）<br>Valine的评论邮件提醒功能：在Leacloud的Valine应用中评论时，邮件提醒会发给评论@的那个人留下的邮箱，模板使用应用创建者在设置——邮件模板中的模板</p></li><li><p>头像</p></li><li><p>版权声明（sidebar及文章底部）</p></li><li><p>显示文章字数和阅读时间（使用<a href="https://github.com/theme-next/hexo-symbols-count-time" target="_blank" rel="noopener">hexo-symbols-count-time</a>）</p></li><li><p>搜索（使用<a href="https://github.com/theme-next/hexo-generator-searchdb" target="_blank" rel="noopener">hexo-generator-searchdb</a>）</p></li><li><p>代码可复制（使用<a href="https://github.com/zenorocha/clipboard.js" target="_blank" rel="noopener">clipboard.js</a>）</p></li><li><p>图片点击放大（使用<a href="https://github.com/theme-next/theme-next-fancybox3" target="_blank" rel="noopener">theme-next-fancybox3</a>）</p></li><li><p>友情链接</p></li><li><p>修改永久链接格式（使用<a href="https://github.com/rozbo/hexo-abbrlink" target="_blank" rel="noopener">hexo-abbrlink</a>） <del>每个post还要为链接起个英文题目实在是太蠢了！</del></p></li><li><p>添加对Mastodon的rel=me认证（路径：<code>\themes\next\layout\_custom\header.swig</code>）</p></li><li><p>博文加密功能（使用<a href="https://github.com/MikeCoder/hexo-blog-encrypt" target="_blank" rel="noopener">hexo-blog-encrypt</a>）</p></li></ul><h1 id="未实现"><a href="#未实现" class="headerlink" title="未实现"></a>未实现</h1><ul><li><p>显示数学公式（真的会在这里写数学公式吗……）</p></li><li><p>分类页（犹豫要不要加，不是很喜欢用分类）</p></li><li><p>购买域名</p></li></ul><h1 id="存在的问题"><a href="#存在的问题" class="headerlink" title="存在的问题"></a>存在的问题</h1><ul><li><p>Social Link无法添加Mastodon的Font Awesome图标（mastodon）</p></li><li><p>修改永久链接后，图片只能放在<code>/source/images/</code>文件夹下，启用assets folder将无法显示</p></li></ul>]]></content>
     
     <summary type="html">
     
