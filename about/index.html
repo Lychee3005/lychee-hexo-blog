@@ -90,7 +90,7 @@
     root: '/',
     scheme: 'Mist',
     version: '6.5.0',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"always","offset":12,"b2t":false,"scrollpercent":true,"onmobile":true},
     fancybox: true,
     fastclick: false,
     lazyload: false,
@@ -115,7 +115,7 @@
   <meta name="description" content="这是璀璨俗世中的喃喃呓语，各位看官请随意就座，倘若此行能够让您有个愉快的心情那便再好不过了。 如有任何想说的话，欢迎在下方留言。">
 <meta property="og:type" content="website">
 <meta property="og:title" content="关于&amp;留言">
-<meta property="og:url" content="https://lychee3005.github.io/about/index.html">
+<meta property="og:url" content="https://blog.lycheeee.top/about/index.html">
 <meta property="og:site_name" content="Lychee&#39;s Blog">
 <meta property="og:description" content="这是璀璨俗世中的喃喃呓语，各位看官请随意就座，倘若此行能够让您有个愉快的心情那便再好不过了。 如有任何想说的话，欢迎在下方留言。">
 <meta property="og:locale" content="zh-CN">
@@ -131,7 +131,7 @@
 
 
 
-  <link rel="canonical" href="https://lychee3005.github.io/about/">
+  <link rel="canonical" href="https://blog.lycheeee.top/about/">
 
 
 
@@ -441,6 +441,8 @@
 
   <aside id="sidebar" class="sidebar">
     
+      <div id="sidebar-dimmer"></div>
+    
     <div class="sidebar-inner">
 
       
@@ -673,6 +675,8 @@
     
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
+        
+          <span id="scrollpercent"><span>0</span>%</span>
         
       </div>
     

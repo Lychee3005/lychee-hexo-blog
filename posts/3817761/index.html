@@ -90,7 +90,7 @@
     root: '/',
     scheme: 'Mist',
     version: '6.5.0',
-    sidebar: {"position":"left","display":"post","offset":12,"b2t":false,"scrollpercent":false,"onmobile":false},
+    sidebar: {"position":"left","display":"always","offset":12,"b2t":false,"scrollpercent":true,"onmobile":true},
     fancybox: true,
     fastclick: false,
     lazyload: false,
@@ -116,7 +116,7 @@
 <meta name="keywords" content="杂谈">
 <meta property="og:type" content="article">
 <meta property="og:title" content="记一次机械键盘进水">
-<meta property="og:url" content="https://lychee3005.github.io/posts/3817761/index.html">
+<meta property="og:url" content="https://blog.lycheeee.top/posts/3817761/index.html">
 <meta property="og:site_name" content="Lychee&#39;s Blog">
 <meta property="og:description" content="那是前天晚上的事情了。我同之前几天一样，坐在电脑前绞尽脑汁地肝着《影子战术：将军之刃》游戏。我妈喊我倒杯水，于是起身倒了一杯，水有点热，就随手放在键盘前一边继续玩一边拿起来喝一口。 然后不经意间一抬手就把杯子碰倒了，一整杯水都泼在了键盘上，屏幕顿时黑了，声音也戛然而止。一片吓人的寂静中，电脑开始缓缓地说道：“讲述人。正在启动讲述人……”">
 <meta property="og:locale" content="zh-CN">
@@ -132,7 +132,7 @@
 
 
 
-  <link rel="canonical" href="https://lychee3005.github.io/posts/3817761/">
+  <link rel="canonical" href="https://blog.lycheeee.top/posts/3817761/">
 
 
 
@@ -371,7 +371,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://lychee3005.github.io/posts/3817761/">
+    <link itemprop="mainEntityOfPage" href="https://blog.lycheeee.top/posts/3817761/">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Lychee">
@@ -547,7 +547,7 @@
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
     
-    <a href="https://lychee3005.github.io/posts/3817761/" title="记一次机械键盘进水">https://lychee3005.github.io/posts/3817761/</a>
+    <a href="https://blog.lycheeee.top/posts/3817761/" title="记一次机械键盘进水">https://blog.lycheeee.top/posts/3817761/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fa fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！</li>
@@ -627,6 +627,8 @@
   </div>
 
   <aside id="sidebar" class="sidebar">
+    
+      <div id="sidebar-dimmer"></div>
     
     <div class="sidebar-inner">
 
@@ -860,6 +862,8 @@
     
       <div class="back-to-top">
         <i class="fa fa-arrow-up"></i>
+        
+          <span id="scrollpercent"><span>0</span>%</span>
         
       </div>
     
